@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Commuter1000" xml:space="preserve">
+    <value>(98-26) (23-08) (76-97) (45-77) (19-92) (70-33) (28-30) (85-78) (09-41) (46-48) (82-06) (91-15) (54-56) (35-84) (55-47) (89-83) (01-90) (57-67) (61-74) (10-88) (53-14) (29-63) (52-43) (17-59) (42-27) (03-00) (37-62) (24-72) (50-04) (96-05) (95-87) (11-02) (65-13) (51-58) (12-68) (44-34) (66-39) (99-75) (81-22) (25-40) (16-80) (69-71) (18-49) (21-20) (31-73) (86-07) (79-93) (94-36) (64-60) (32-38)</value>
+  </data>
+  <data name="Commuter1001" xml:space="preserve">
+    <value>(30-87) (98-75) (53-92) (46-36) (64-23) (69-63) (19-44) (71-20) (89-58) (17-39) (03-35) (48-18) (81-02) (00-28) (37-70) (12-79) (51-96) (95-94) (11-05) (78-60) (85-88) (31-43) (42-26) (59-22) (68-29) (97-49) (13-38) (72-62) (90-25) (32-56) (80-74) (33-04) (65-73) (09-76) (55-08) (84-50) (41-27) (06-93) (61-07) (52-82) (77-57) (15-10) (45-14) (01-47) (16-21) (66-83) (34-24) (99-91) (86-67) (40-54)</value>
+  </data>
+  <data name="Commuter1002" xml:space="preserve">
+    <value>(17-99) (25-13) (04-73) (01-94) (05-28) (08-83) (19-26) (09-67) (45-10) (59-63) (81-91) (22-39) (84-65) (43-82) (07-24) (62-32) (69-96) (11-14) (85-12) (44-93) (80-46) (66-06) (64-30) (15-88) (74-78) (36-29) (02-03) (20-61) (95-72) (52-53) (21-60) (38-89) (79-90) (16-00) (76-86) (41-77) (57-34) (37-54) (55-47) (48-92) (31-35) (33-70) (56-27) (51-40) (18-58) (98-75) (49-68) (97-87) (71-50) (23-42)</value>
+  </data>
+  <data name="Commuter1003" xml:space="preserve">
+    <value>(54-60) (82-61) (02-46) (66-95) (22-67) (75-09) (00-52) (93-83) (24-08) (15-45) (98-31) (17-07) (28-72) (50-14) (94-43) (29-57) (96-81) (69-86) (37-42) (77-32) (12-18) (59-63) (76-88) (21-84) (20-41) (25-87) (85-10) (47-04) (03-65) (51-39) (53-64) (92-91) (78-55) (90-68) (13-58) (16-89) (23-44) (80-01) (26-27) (05-06) (34-99) (49-71) (38-79) (73-97) (36-40) (11-48) (56-30) (35-19) (62-33) (70-74)</value>
+  </data>
+  <data name="Commuter1004" xml:space="preserve">
+    <value>(79-46) (73-23) (94-31) (28-95) (69-82) (68-22) (21-34) (48-52) (45-57) (86-29) (38-09) (08-24) (67-99) (91-27) (78-15) (36-62) (07-06) (64-14) (76-70) (80-53) (59-75) (83-55) (43-96) (87-92) (32-01) (37-50) (17-16) (56-84) (93-03) (66-60) (33-58) (12-65) (19-39) (11-25) (00-04) (44-35) (42-61) (74-30) (88-97) (18-77) (13-10) (71-98) (02-89) (85-54) (51-26) (72-81) (49-63) (05-47) (90-41) (40-20)</value>
+  </data>
+  <data name="Commuter1005" xml:space="preserve">
+    <value>(37-70) (03-31) (50-60) (73-43) (41-05) (28-25) (45-26) (53-38) (83-00) (06-93) (01-96) (21-29) (04-09) (19-34) (84-95) (49-86) (11-89) (69-12) (78-14) (30-67) (62-58) (22-65) (92-68) (52-35) (44-27) (55-51) (57-99) (15-20) (42-07) (56-81) (16-39) (54-98) (71-77) (32-75) (87-18) (97-59) (79-13) (63-47) (23-46) (82-08) (48-36) (74-02) (17-10) (80-64) (88-24) (33-76) (94-90) (85-72) (40-91) (66-61)</value>
+  </data>
+  <data name="Commuter1006" xml:space="preserve">
+    <value>(23-43) (71-47) (51-27) (57-89) (82-46) (39-85) (75-34) (14-61) (80-66) (12-81) (04-48) (52-30) (56-65) (45-02) (84-62) (50-59) (78-40) (19-11) (60-76) (03-74) (15-28) (07-79) (93-70) (37-13) (77-69) (01-29) (95-44) (21-64) (92-63) (31-53) (88-73) (97-00) (72-35) (09-94) (90-36) (96-16) (25-83) (06-86) (41-32) (24-33) (10-26) (08-54) (42-22) (58-99) (17-55) (05-18) (68-49) (87-38) (91-98) (67-20)</value>
+  </data>
+  <data name="Commuter1007" xml:space="preserve">
+    <value>(88-46) (93-19) (92-24) (15-81) (80-63) (56-83) (74-06) (20-32) (60-03) (76-16) (08-61) (14-23) (28-91) (37-99) (78-51) (11-59) (10-96) (70-39) (67-73) (13-50) (72-71) (45-26) (98-04) (55-25) (00-82) (69-40) (34-48) (18-42) (38-54) (53-68) (87-57) (30-58) (02-33) (95-35) (52-77) (31-79) (12-27) (47-22) (44-94) (97-43) (65-36) (66-17) (75-64) (62-89) (41-49) (86-07) (84-09) (01-29) (90-21) (05-85)</value>
+  </data>
+  <data name="Commuter1008" xml:space="preserve">
+    <value>(20-56) (87-24) (10-38) (66-25) (74-70) (22-68) (05-11) (69-57) (81-35) (28-78) (39-53) (31-55) (21-06) (59-50) (27-86) (49-03) (76-96) (64-08) (84-93) (67-99) (82-29) (40-12) (89-45) (47-54) (17-30) (85-16) (36-26) (94-65) (02-14) (97-88) (51-32) (15-18) (61-07) (77-19) (44-04) (91-63) (34-52) (90-79) (33-71) (48-80) (00-98) (58-01) (13-72) (41-60) (62-46) (09-75) (73-42) (37-43) (95-23) (92-83)</value>
+  </data>
+  <data name="Commuter1009" xml:space="preserve">
+    <value>(56-84) (41-10) (31-75) (44-85) (43-52) (68-97) (69-29) (74-08) (05-94) (87-58) (13-61) (09-23) (18-50) (35-22) (95-02) (45-53) (62-65) (33-28) (24-72) (49-04) (67-34) (15-12) (19-51) (76-06) (36-14) (96-48) (63-70) (39-91) (83-38) (78-42) (00-46) (59-30) (11-37) (57-88) (79-40) (32-92) (07-66) (54-93) (73-82) (55-26) (47-86) (16-17) (64-98) (71-21) (03-89) (01-60) (27-99) (80-81) (20-90) (25-77)</value>
+  </data>
+  <data name="Commuter1010" xml:space="preserve">
+    <value>(14-27) (43-63) (59-71) (81-64) (21-61) (33-37) (20-92) (23-56) (46-36) (39-78) (10-42) (86-22) (07-02) (38-97) (65-89) (98-34) (83-76) (52-90) (30-49) (06-84) (77-16) (87-91) (25-35) (44-12) (09-79) (04-31) (58-29) (40-08) (01-68) (24-53) (60-19) (69-94) (62-51) (50-95) (88-85) (47-32) (55-73) (41-15) (26-45) (03-70) (05-11) (28-13) (48-96) (82-00) (72-99) (17-67) (74-57) (93-54) (80-75) (18-66)</value>
+  </data>
+  <data name="Commuter1011" xml:space="preserve">
+    <value>(46-04) (08-61) (59-78) (72-32) (85-76) (17-51) (37-91) (24-60) (18-42) (38-01) (43-47) (25-98) (03-77) (66-14) (79-94) (33-75) (10-22) (97-71) (36-28) (81-02) (15-55) (07-48) (39-63) (09-95) (19-29) (34-20) (13-80) (86-56) (16-21) (70-64) (41-00) (44-68) (90-96) (74-23) (99-93) (45-83) (27-57) (49-58) (73-67) (52-11) (82-30) (65-84) (06-53) (69-89) (35-62) (40-12) (54-92) (88-31) (05-26) (50-87)</value>
+  </data>
+  <data name="Commuter1012" xml:space="preserve">
+    <value>(71-98) (42-86) (69-06) (20-30) (27-96) (31-84) (51-60) (14-48) (87-39) (25-23) (61-54) (18-04) (08-55) (47-07) (13-01) (19-17) (99-85) (45-26) (03-72) (91-34) (12-10) (75-16) (46-90) (29-74) (09-93) (89-97) (50-15) (05-67) (43-70) (95-88) (36-62) (02-68) (77-33) (58-81) (63-57) (79-94) (83-40) (38-64) (65-24) (80-56) (44-73) (22-32) (00-35) (41-82) (78-49) (21-28) (11-76) (59-66) (92-37) (52-53)</value>
+  </data>
+  <data name="Commuter1013" xml:space="preserve">
+    <value>(51-59) (70-57) (38-37) (00-56) (13-61) (04-87) (02-10) (11-74) (75-71) (18-30) (54-34) (97-16) (40-55) (50-48) (58-93) (98-39) (60-09) (46-81) (67-29) (99-96) (19-84) (42-68) (64-85) (28-82) (73-15) (27-12) (88-25) (45-47) (36-20) (08-22) (32-26) (33-52) (01-43) (90-69) (14-91) (77-79) (31-80) (86-95) (05-72) (24-07) (76-63) (23-41) (65-49) (06-83) (66-62) (53-92) (03-35) (17-94) (78-89) (44-21)</value>
+  </data>
+  <data name="Commuter1014" xml:space="preserve">
+    <value>(21-50) (09-36) (16-91) (57-61) (68-32) (08-42) (14-03) (52-23) (59-12) (70-83) (35-40) (56-13) (27-71) (76-60) (80-24) (22-98) (86-19) (62-73) (37-51) (54-18) (72-97) (25-11) (87-65) (69-90) (29-93) (84-39) (82-64) (30-31) (34-48) (77-46) (81-20) (15-28) (05-01) (33-47) (10-75) (43-67) (49-96) (94-02) (89-00) (79-55) (78-04) (44-45) (88-85) (41-63) (92-07) (95-99) (26-38) (74-66) (53-58) (06-17)</value>
+  </data>
+  <data name="Commuter1015" xml:space="preserve">
+    <value>(52-56) (83-84) (30-12) (58-24) (26-06) (07-74) (02-71) (40-43) (01-60) (89-76) (00-18) (29-85) (46-11) (92-75) (87-32) (53-23) (28-88) (62-69) (90-19) (20-64) (50-04) (59-47) (63-70) (94-67) (66-42) (51-37) (21-13) (14-77) (57-55) (81-16) (54-34) (79-95) (36-48) (45-39) (08-15) (99-27) (72-98) (05-86) (61-22) (35-68) (78-82) (03-65) (33-44) (17-73) (31-80) (97-91) (38-49) (09-10) (93-25) (41-96)</value>
+  </data>
+</root>

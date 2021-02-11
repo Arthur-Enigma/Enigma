@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Enigma" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Reflectors" Type="DataStorage.SerializableStringDictionary" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Commuters" Type="DataStorage.SerializableStringDictionary" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Rotors" Type="DataStorage.SerializableStringDictionary" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="AppResousres" Type="DataStorage.SerializableStringDictionary" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>

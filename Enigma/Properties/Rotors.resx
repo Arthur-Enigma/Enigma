@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Rotor1000" xml:space="preserve">
+    <value>80-54-14-95-92-44-19-20-29-24-68-85-93-18-48-79-30-91-70-17-83-32-06-60-38-65-71-12-02-62-90-49-10-73-11-94-39-22-37-08-28-61-53-27-89-13-04-52-57-47-00-59-75-58-76-45-98-86-31-50-77-41-66-40-16-81-36-25-26-67-46-33-87-23-35-84-21-01-96-34-69-72-09-55-78-43-56-74-07-64-88-82-05-99-51-15-03-97-63-42</value>
+  </data>
+  <data name="Rotor1001" xml:space="preserve">
+    <value>03-81-33-16-50-41-58-93-36-68-61-90-75-24-89-07-85-30-04-08-26-29-45-98-38-27-80-94-25-67-76-86-96-46-62-20-72-66-39-65-84-34-97-77-18-48-70-55-42-59-09-56-71-47-32-12-73-01-63-78-95-64-35-06-31-40-23-91-92-51-15-19-11-43-22-99-54-52-83-02-13-87-00-37-74-57-60-44-17-53-28-49-82-69-14-79-05-21-10-88</value>
+  </data>
+  <data name="Rotor1002" xml:space="preserve">
+    <value>42-65-84-38-96-17-50-28-86-41-85-58-90-62-08-05-51-70-19-94-32-07-97-35-33-45-73-89-39-87-02-60-93-49-31-34-68-82-37-54-66-29-53-69-83-92-18-59-03-48-95-06-98-64-40-36-15-80-56-74-71-67-23-20-78-75-01-12-52-10-44-43-77-13-11-57-04-61-91-72-21-25-55-30-99-16-27-09-26-47-22-46-81-76-88-14-24-00-63-79</value>
+  </data>
+  <data name="Rotor1003" xml:space="preserve">
+    <value>55-00-01-05-45-94-17-50-91-77-21-04-62-85-29-34-99-31-43-71-82-32-61-51-37-39-92-20-76-14-80-69-40-97-11-72-08-63-23-75-35-68-88-64-12-07-89-57-09-24-56-87-15-13-48-28-54-38-93-65-83-22-52-16-90-30-03-46-53-49-66-33-60-78-84-98-19-10-41-42-47-96-86-36-58-73-25-26-06-81-74-70-67-95-79-18-02-59-27-44</value>
+  </data>
+  <data name="Rotor1004" xml:space="preserve">
+    <value>77-68-45-06-26-12-27-96-65-87-20-09-42-18-51-40-14-38-48-76-85-31-83-97-02-33-63-69-84-50-59-17-88-89-90-57-73-79-01-36-95-67-08-56-03-58-62-34-81-13-54-10-86-74-80-64-99-43-52-98-53-39-00-07-44-11-61-66-92-25-94-41-47-23-72-16-30-91-35-70-24-93-49-55-37-32-46-82-15-22-29-71-04-75-60-78-05-19-21-28</value>
+  </data>
+  <data name="Rotor1005" xml:space="preserve">
+    <value>42-38-04-37-63-71-19-68-46-51-40-03-70-60-45-26-22-49-65-81-82-53-44-64-17-20-16-90-62-76-43-87-89-93-11-61-77-86-83-08-95-01-36-30-02-10-85-14-56-54-69-55-67-72-98-34-41-07-94-29-75-79-47-88-52-06-23-99-12-00-91-35-48-31-96-27-09-05-92-18-97-28-57-78-84-73-33-39-58-13-66-59-24-32-50-15-74-21-25-80</value>
+  </data>
+  <data name="Rotor1006" xml:space="preserve">
+    <value>63-91-84-12-46-96-13-36-89-79-61-17-02-24-97-23-27-98-67-26-08-19-16-35-38-29-56-60-41-71-81-37-42-52-09-88-83-32-94-10-04-28-80-45-34-11-54-86-18-14-64-20-58-44-57-53-92-39-55-49-68-31-90-72-74-77-62-66-50-25-69-21-78-95-43-73-87-70-75-07-05-93-99-00-33-76-48-82-30-15-03-59-65-51-22-85-40-01-47-06</value>
+  </data>
+  <data name="Rotor1007" xml:space="preserve">
+    <value>89-96-84-68-98-36-67-77-28-45-85-81-31-83-27-49-62-59-71-33-78-30-56-21-99-57-69-22-42-64-07-17-72-92-05-93-61-66-55-13-47-14-24-19-26-15-86-95-25-74-94-41-53-23-35-44-29-16-63-08-32-18-38-80-37-88-20-52-43-04-60-51-06-97-50-70-01-65-87-76-40-12-73-46-03-02-00-11-75-54-82-39-34-91-58-90-10-48-79-09</value>
+  </data>
+  <data name="Rotor1008" xml:space="preserve">
+    <value>52-73-74-45-41-27-68-62-21-48-58-07-37-01-38-85-99-26-33-61-05-89-44-90-35-96-72-12-14-16-88-94-02-39-08-13-20-25-82-97-67-57-09-63-54-43-19-60-78-69-22-36-30-47-50-10-91-11-86-17-03-66-98-93-80-75-51-28-04-46-53-31-23-95-42-32-59-81-65-15-77-55-56-64-40-49-00-76-92-79-84-24-83-06-34-29-18-71-70-87</value>
+  </data>
+  <data name="Rotor1009" xml:space="preserve">
+    <value>57-32-40-98-85-48-21-50-70-94-15-03-46-79-27-96-09-99-07-18-69-95-54-04-80-25-97-14-30-17-41-56-76-26-39-58-29-71-59-22-34-28-16-51-43-67-87-78-37-82-88-23-44-84-62-63-72-12-68-00-06-10-55-31-24-01-60-93-75-13-11-74-91-65-49-89-66-52-45-20-19-83-77-38-35-47-92-36-64-86-02-81-53-33-61-73-08-42-90-05</value>
+  </data>
+  <data name="Rotor1010" xml:space="preserve">
+    <value>79-07-15-77-46-50-75-30-98-28-08-76-12-95-96-06-94-67-19-87-13-25-86-42-27-58-71-26-39-78-54-63-90-64-48-49-68-56-88-05-31-69-00-45-04-22-74-09-66-62-51-72-24-02-17-11-36-61-55-37-34-97-65-44-81-33-18-10-38-73-89-40-85-16-60-47-20-83-92-21-41-32-91-99-80-52-84-23-29-57-53-70-35-82-43-01-59-14-03-93</value>
+  </data>
+  <data name="Rotor1011" xml:space="preserve">
+    <value>05-08-78-89-81-92-20-72-50-74-36-69-70-60-18-42-37-30-86-55-94-21-66-44-51-53-56-85-47-65-71-33-01-58-98-59-24-68-38-91-48-07-63-13-02-90-87-23-22-14-67-34-00-17-32-97-95-88-09-73-40-19-12-27-82-26-35-52-77-06-54-61-11-57-25-43-28-62-10-64-15-96-41-03-45-99-84-04-76-80-31-16-83-93-49-79-75-39-29-46</value>
+  </data>
+  <data name="Rotor1012" xml:space="preserve">
+    <value>26-57-31-32-51-98-80-89-15-13-24-36-82-17-63-11-73-37-74-47-01-43-70-35-00-71-14-62-21-91-96-94-95-76-25-86-02-22-45-06-41-12-23-54-27-90-08-49-79-07-64-03-68-97-85-87-28-19-66-04-09-78-81-67-29-10-58-46-55-52-61-92-50-42-88-38-16-93-53-65-56-99-40-77-48-05-69-59-20-60-83-34-18-75-72-44-84-39-33-30</value>
+  </data>
+  <data name="Rotor1013" xml:space="preserve">
+    <value>81-91-94-36-41-04-82-70-27-78-29-66-12-28-53-25-05-88-40-02-10-30-42-33-17-03-95-50-35-72-19-90-13-71-74-07-39-92-61-32-63-49-14-01-75-21-64-97-98-55-20-06-45-52-34-08-84-56-59-18-69-60-73-86-77-37-67-48-11-43-15-87-93-26-09-76-58-44-16-99-65-51-68-31-23-79-47-57-00-89-38-22-80-83-96-54-62-85-24-46</value>
+  </data>
+  <data name="Rotor1014" xml:space="preserve">
+    <value>31-36-80-14-41-79-37-65-86-66-96-49-35-62-10-20-08-64-21-53-87-02-93-27-50-12-03-58-43-84-89-11-55-52-88-30-82-54-47-99-28-72-22-40-46-78-63-24-97-25-45-61-00-01-17-85-94-34-91-07-09-15-51-70-95-26-73-92-59-90-18-68-32-48-57-42-83-74-29-23-04-05-81-71-67-13-19-16-76-06-56-60-44-33-98-38-69-77-75-39</value>
+  </data>
+  <data name="Rotor1015" xml:space="preserve">
+    <value>80-06-30-62-55-77-91-69-93-95-96-12-42-00-88-13-32-11-21-43-97-61-86-04-01-85-29-48-10-52-74-20-84-70-39-56-66-82-87-78-46-71-40-05-47-38-90-94-53-25-64-99-31-03-81-19-23-09-59-41-68-14-08-54-65-22-67-18-28-44-07-33-45-73-72-98-49-24-50-36-27-75-76-63-16-83-89-79-26-57-35-15-60-51-58-34-02-37-17-92</value>
+  </data>
+</root>
