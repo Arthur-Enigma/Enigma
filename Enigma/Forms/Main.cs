@@ -133,7 +133,7 @@ namespace Enigma
         private void AboutProgrammToolStripMenuItem_Click(object sender, EventArgs e)
         {
             MessageBox.Show(
-                "Written by Arthur Tsaturian. Copyright © 2018",
+                "Written by Arthur Tsaturian. Copyright © 2018 - 2021",
                 "About programm",
                 MessageBoxButtons.OK,
                 MessageBoxIcon.None,
