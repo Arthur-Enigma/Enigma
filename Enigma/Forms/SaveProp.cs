@@ -37,13 +37,13 @@ namespace Enigma
             DialogResult = DialogResult.Cancel;
         }
 
-        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        private void CheckBox1_CheckedChanged(object sender, EventArgs e)
         {
             for (int i = 0; i < checkedListBox1.Items.Count; i++)
                 checkedListBox1.SetItemChecked(i, checkBox1.Checked);
         }
 
-        private void checkBox2_CheckedChanged(object sender, EventArgs e)
+        private void CheckBox2_CheckedChanged(object sender, EventArgs e)
         {
             for (int i = 0; i < checkedListBox2.Items.Count; i++)
             {

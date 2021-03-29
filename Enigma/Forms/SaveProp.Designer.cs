@@ -89,7 +89,7 @@
             this.checkBox1.TabStop = false;
             this.checkBox1.Text = "Select all";
             this.checkBox1.UseVisualStyleBackColor = true;
-            this.checkBox1.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
+            this.checkBox1.CheckedChanged += new System.EventHandler(this.CheckBox1_CheckedChanged);
             // 
             // label2
             // 
@@ -120,7 +120,7 @@
             this.checkBox2.TabStop = false;
             this.checkBox2.Text = "Select all";
             this.checkBox2.UseVisualStyleBackColor = true;
-            this.checkBox2.CheckedChanged += new System.EventHandler(this.checkBox2_CheckedChanged);
+            this.checkBox2.CheckedChanged += new System.EventHandler(this.CheckBox2_CheckedChanged);
             // 
             // SaveProp
             // 

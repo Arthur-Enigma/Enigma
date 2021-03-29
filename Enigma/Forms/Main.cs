@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 using System.Linq;
 using System.Windows.Forms;
 
@@ -23,6 +24,8 @@ namespace Enigma
             Rotor3Value.SelectedIndex = 0;
 
             Original_text.Text = DataStorage.Properties.AppResourses.DefaultValue;
+
+       
 
             //DataStorage.Settings.Default.Reflectors.Clear();
             //DataStorage.Settings.Default.Reflectors = null;
